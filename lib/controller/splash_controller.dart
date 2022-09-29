@@ -1,6 +1,6 @@
-import 'package:sixam_mart_delivery/data/api/api_checker.dart';
-import 'package:sixam_mart_delivery/data/model/response/config_model.dart';
-import 'package:sixam_mart_delivery/data/repository/splash_repo.dart';
+import 'package:delivery/data/api/api_checker.dart';
+import 'package:delivery/data/model/response/config_model.dart';
+import 'package:delivery/data/repository/splash_repo.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

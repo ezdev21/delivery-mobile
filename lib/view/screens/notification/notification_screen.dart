@@ -1,11 +1,11 @@
-import 'package:sixam_mart_delivery/controller/notification_controller.dart';
-import 'package:sixam_mart_delivery/controller/splash_controller.dart';
-import 'package:sixam_mart_delivery/helper/date_converter.dart';
-import 'package:sixam_mart_delivery/util/dimensions.dart';
-import 'package:sixam_mart_delivery/util/styles.dart';
-import 'package:sixam_mart_delivery/view/base/custom_app_bar.dart';
-import 'package:sixam_mart_delivery/view/base/custom_image.dart';
-import 'package:sixam_mart_delivery/view/screens/notification/widget/notification_dialog.dart';
+import 'package:delivery/controller/notification_controller.dart';
+import 'package:delivery/controller/splash_controller.dart';
+import 'package:delivery/helper/date_converter.dart';
+import 'package:delivery/util/dimensions.dart';
+import 'package:delivery/util/styles.dart';
+import 'package:delivery/view/base/custom_app_bar.dart';
+import 'package:delivery/view/base/custom_image.dart';
+import 'package:delivery/view/screens/notification/widget/notification_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

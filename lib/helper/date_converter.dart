@@ -1,4 +1,4 @@
-import 'package:sixam_mart_delivery/controller/splash_controller.dart';
+import 'package:delivery/controller/splash_controller.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
 

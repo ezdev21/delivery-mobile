@@ -1,6 +1,6 @@
-import 'package:sixam_mart_delivery/util/dimensions.dart';
-import 'package:sixam_mart_delivery/util/images.dart';
-import 'package:sixam_mart_delivery/util/styles.dart';
+import 'package:delivery/util/dimensions.dart';
+import 'package:delivery/util/images.dart';
+import 'package:delivery/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

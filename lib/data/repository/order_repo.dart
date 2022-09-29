@@ -1,10 +1,10 @@
 import 'dart:convert';
 
-import 'package:sixam_mart_delivery/data/api/api_client.dart';
-import 'package:sixam_mart_delivery/data/model/body/record_location_body.dart';
-import 'package:sixam_mart_delivery/data/model/body/update_status_body.dart';
-import 'package:sixam_mart_delivery/data/model/response/ignore_model.dart';
-import 'package:sixam_mart_delivery/util/app_constants.dart';
+import 'package:delivery/data/api/api_client.dart';
+import 'package:delivery/data/model/body/record_location_body.dart';
+import 'package:delivery/data/model/body/update_status_body.dart';
+import 'package:delivery/data/model/response/ignore_model.dart';
+import 'package:delivery/util/app_constants.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_connect/http/src/response/response.dart';
 import 'package:get/state_manager.dart';

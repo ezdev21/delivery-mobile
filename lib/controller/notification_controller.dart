@@ -1,7 +1,7 @@
-import 'package:sixam_mart_delivery/data/api/api_checker.dart';
-import 'package:sixam_mart_delivery/data/model/response/notification_model.dart';
-import 'package:sixam_mart_delivery/data/repository/notification_repo.dart';
-import 'package:sixam_mart_delivery/helper/date_converter.dart';
+import 'package:delivery/data/api/api_checker.dart';
+import 'package:delivery/data/model/response/notification_model.dart';
+import 'package:delivery/data/repository/notification_repo.dart';
+import 'package:delivery/helper/date_converter.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

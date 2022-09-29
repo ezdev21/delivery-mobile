@@ -1,17 +1,17 @@
-import 'package:sixam_mart_delivery/data/model/response/order_model.dart';
-import 'package:sixam_mart_delivery/view/screens/auth/sign_in_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/dashboard/dashboard_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/forget/forget_pass_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/forget/new_pass_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/forget/verification_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/html/html_viewer_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/language/language_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/notification/notification_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/order/order_details_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/order/running_order_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/profile/update_profile_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/splash/splash_screen.dart';
-import 'package:sixam_mart_delivery/view/screens/update/update_screen.dart';
+import 'package:delivery/data/model/response/order_model.dart';
+import 'package:delivery/view/screens/auth/sign_in_screen.dart';
+import 'package:delivery/view/screens/dashboard/dashboard_screen.dart';
+import 'package:delivery/view/screens/forget/forget_pass_screen.dart';
+import 'package:delivery/view/screens/forget/new_pass_screen.dart';
+import 'package:delivery/view/screens/forget/verification_screen.dart';
+import 'package:delivery/view/screens/html/html_viewer_screen.dart';
+import 'package:delivery/view/screens/language/language_screen.dart';
+import 'package:delivery/view/screens/notification/notification_screen.dart';
+import 'package:delivery/view/screens/order/order_details_screen.dart';
+import 'package:delivery/view/screens/order/running_order_screen.dart';
+import 'package:delivery/view/screens/profile/update_profile_screen.dart';
+import 'package:delivery/view/screens/splash/splash_screen.dart';
+import 'package:delivery/view/screens/update/update_screen.dart';
 import 'package:get/get.dart';
 
 class RouteHelper {

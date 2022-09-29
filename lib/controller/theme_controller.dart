@@ -1,4 +1,4 @@
-import 'package:sixam_mart_delivery/util/app_constants.dart';
+import 'package:delivery/util/app_constants.dart';
 import 'package:flutter/foundation.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';

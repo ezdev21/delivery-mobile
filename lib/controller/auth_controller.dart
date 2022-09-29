@@ -1,16 +1,16 @@
 import 'dart:async';
 import 'dart:typed_data';
 
-import 'package:sixam_mart_delivery/data/api/api_checker.dart';
-import 'package:sixam_mart_delivery/data/model/body/record_location_body.dart';
-import 'package:sixam_mart_delivery/data/model/response/profile_model.dart';
-import 'package:sixam_mart_delivery/data/model/response/response_model.dart';
-import 'package:sixam_mart_delivery/data/repository/auth_repo.dart';
-import 'package:sixam_mart_delivery/helper/network_info.dart';
-import 'package:sixam_mart_delivery/util/images.dart';
-import 'package:sixam_mart_delivery/view/base/confirmation_dialog.dart';
-import 'package:sixam_mart_delivery/view/base/custom_alert_dialog.dart';
-import 'package:sixam_mart_delivery/view/base/custom_snackbar.dart';
+import 'package:delivery/data/api/api_checker.dart';
+import 'package:delivery/data/model/body/record_location_body.dart';
+import 'package:delivery/data/model/response/profile_model.dart';
+import 'package:delivery/data/model/response/response_model.dart';
+import 'package:delivery/data/repository/auth_repo.dart';
+import 'package:delivery/helper/network_info.dart';
+import 'package:delivery/util/images.dart';
+import 'package:delivery/view/base/confirmation_dialog.dart';
+import 'package:delivery/view/base/custom_alert_dialog.dart';
+import 'package:delivery/view/base/custom_snackbar.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';

@@ -1,6 +1,6 @@
-import 'package:sixam_mart_delivery/helper/price_converter.dart';
-import 'package:sixam_mart_delivery/util/dimensions.dart';
-import 'package:sixam_mart_delivery/util/styles.dart';
+import 'package:delivery/helper/price_converter.dart';
+import 'package:delivery/util/dimensions.dart';
+import 'package:delivery/util/styles.dart';
 import 'package:flutter/material.dart';
 import 'package:shimmer_animation/shimmer_animation.dart';
 

@@ -1,7 +1,7 @@
-import 'package:sixam_mart_delivery/controller/order_controller.dart';
-import 'package:sixam_mart_delivery/util/dimensions.dart';
-import 'package:sixam_mart_delivery/view/base/custom_app_bar.dart';
-import 'package:sixam_mart_delivery/view/screens/order/widget/history_order_widget.dart';
+import 'package:delivery/controller/order_controller.dart';
+import 'package:delivery/util/dimensions.dart';
+import 'package:delivery/view/base/custom_app_bar.dart';
+import 'package:delivery/view/screens/order/widget/history_order_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

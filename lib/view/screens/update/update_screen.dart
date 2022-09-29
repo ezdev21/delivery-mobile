@@ -1,9 +1,9 @@
-import 'package:sixam_mart_delivery/controller/splash_controller.dart';
-import 'package:sixam_mart_delivery/util/dimensions.dart';
-import 'package:sixam_mart_delivery/util/images.dart';
-import 'package:sixam_mart_delivery/util/styles.dart';
-import 'package:sixam_mart_delivery/view/base/custom_button.dart';
-import 'package:sixam_mart_delivery/view/base/custom_snackbar.dart';
+import 'package:delivery/controller/splash_controller.dart';
+import 'package:delivery/util/dimensions.dart';
+import 'package:delivery/util/images.dart';
+import 'package:delivery/util/styles.dart';
+import 'package:delivery/view/base/custom_button.dart';
+import 'package:delivery/view/base/custom_snackbar.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:url_launcher/url_launcher.dart';
