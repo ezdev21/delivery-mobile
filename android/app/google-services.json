@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55671279702",
+    "project_id": "delivery-5417c",
+    "storage_bucket": "delivery-5417c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55671279702:android:9327193199b9f7e327ebf7",
+        "android_client_info": {
+          "package_name": "com.ezra.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55671279702-e3jhjm6nnu2rolltecjk26ldvijs3cok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsqZ2aVlGgSdn1ss6J-zZpkBJb7SqQTF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55671279702-e3jhjm6nnu2rolltecjk26ldvijs3cok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

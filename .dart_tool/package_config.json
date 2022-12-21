@@ -38,6 +38,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "cloud_firestore",
+      "rootUri": "file:///home/mattew/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-4.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.16"
+    },
+    {
       "name": "cloud_firestore_platform_interface",
       "rootUri": "file:///home/mattew/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_platform_interface-5.9.2",
       "packageUri": "lib/",
@@ -296,13 +302,13 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "click_counter",
+      "name": "delivery",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2022-12-21T17:33:53.970313Z",
+  "generated": "2022-12-21T17:49:59.003170Z",
   "generator": "pub",
   "generatorVersion": "2.19.0-146.2.beta"
 }
